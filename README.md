@@ -1,0 +1,1 @@
+Esse programa simula uma classe de lista de filmes, onde pode-se escolher entre várias opções de um menu como adicionar um novo filme, avaliar, marcar como assistido ou até exibir uma lista com os filmes já adicionados.
