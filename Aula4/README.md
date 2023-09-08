@@ -1,0 +1,1 @@
+No exercício desse desafio. foi implementada uma função que exibe uma dica ao clicar em um botão, com base no resultado obtido pelo cálculo do IMC.
