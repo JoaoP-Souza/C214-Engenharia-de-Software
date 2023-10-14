@@ -1,0 +1,7 @@
+Testes Funcionais se concentram em verificar se a funcionalidade implemetada fuunciona  como deveria. 
+(exemplo: criar um teste que preenche camposcorretamente, envia um formulário e verifica se não há nenhum erro).
+
+Testes não Funcionais, verificam como o sistema se comporta de acordo com algum comportamento específico,
+ avaliando métricas não funcionais, como segurança, desempenho, usabilidade, etc..
+ (exemplo: deve verificar se uma exeção como, enviar um campo email com um texto inválido, 
+ está sendo tratada corretamente pela mensagem de erro que o sistema deve gerar, impedindo o usuário de enviar o formulário)
