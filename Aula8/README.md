@@ -1,1 +1,1 @@
-[![CI Class](https://github.com/JoaoP-Souza/C214-Engenharia-de-Software/Aula8/actions/workflows/ci.yml/badge.svg)](https://github.com/JoaoP-Souza/C214-Engenharia-de-Software/Aula8/actions/workflows/ci.yml)
+[![CI Class](https://github.com/JoaoP-Souza/C214-Engenharia-de-Software/actions/workflows/ci.yml/badge.svg)](https://github.com/JoaoP-Souza/C214-Engenharia-de-Software/actions/workflows/ci.yml)
